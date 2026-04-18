@@ -15,7 +15,7 @@ Motivated to apply technical knowledge in a practical environment and further de
 
 
 ## Technical Skills
-- Programming: Python (basic), JavaScript (beginner),C++(Basic)
+- Programming: Python, JavaScript(Basic), C++(Beginner)
 - Database: MySQL (Learning)   
 - Web: HTML, CSS  
 - Concepts: Object-Oriented Programming (OOP), File Handling, JSON  
