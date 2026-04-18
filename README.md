@@ -20,8 +20,7 @@ Motivated to apply technical knowledge in a practical environment and further de
 - Web: HTML, CSS  
 - Concepts: Object-Oriented Programming (OOP), File Handling, JSON  
 - Tools:GitHub, VS Code  
-- Other: Microsoft Office 365
-- 
+- Other: Microsoft Office 365 
 
 ## Projects
 
