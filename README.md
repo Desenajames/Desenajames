@@ -29,7 +29,7 @@ Motivated to apply technical knowledge in a practical environment and further de
 - Implemented dynamic recipe rendering and modal popups using JavaScript  
 - Focused on UI design, layout, and user interaction  
 
-🔗 https://github.com/[your-username]/vitablend  
+🔗 https://github.com/Desenajames/VetaBlend- 
 
 ---
 
