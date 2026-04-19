@@ -38,7 +38,7 @@ Motivated to apply technical knowledge in a practical environment and further de
 - Features include menu display, order handling, and receipt generation with timestamp  
 - Applied object-oriented programming concepts such as classes and methods  
 
-🔗 https://github.com/Desenajames/cafe-management-system  
+🔗 https://github.com/Desenajames/Cafe-Management-System-
 
 ---
 
