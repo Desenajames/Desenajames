@@ -38,7 +38,7 @@ Motivated to apply technical knowledge in a practical environment and further de
 - Features include menu display, order handling, and receipt generation with timestamp  
 - Applied object-oriented programming concepts such as classes and methods  
 
-🔗 https://github.com/[your-username]/cafe-management-system  
+🔗 https://github.com/Desenajames/cafe-management-system  
 
 ---
 
@@ -47,7 +47,7 @@ Motivated to apply technical knowledge in a practical environment and further de
 - Used JSON file storage for saving and retrieving data  
 - Implemented features to add, view, delete expenses and calculate totals  
 
-🔗 https://github.com/[your-username]/expense-tracker  
+🔗 https://github.com/Desenajames/expense-tracker  
 
 ---
 
